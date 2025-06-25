@@ -34,7 +34,7 @@
 .girl {
     width: 100%;
     height: 760px;
-    background-image: url(/Image\ here.png);
+    background-image: url(./Image\ here.png);
     /* object-fit: fill; */
     background-repeat: no-repeat;
     background-size: contain;
